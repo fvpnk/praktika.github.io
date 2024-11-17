@@ -59,8 +59,8 @@ margin: auto;
 }
 
 .button2 {
-    color: #2f4f4f;
-    background-color:#87dfd6;
+    background-color:#dff5f2;
+    border-color: #dff5f2;
     font-family: "Arial Black";
     text-align: center;
     font-size: 40px;
